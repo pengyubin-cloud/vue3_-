@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# py_trip
+# HT_trip
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -29,5 +29,5 @@ npm run dev
 npm run build
 ```
 =======
-# vue3_-
+# vue3_HTtrip
 >>>>>>> refs/remotes/origin/main
